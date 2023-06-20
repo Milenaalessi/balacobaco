@@ -1,10 +1,15 @@
-:root {
-    --cor-de-fundo: #e2afffd3;
-    }
-    body {
-        background-color: var(--cor-de-fundo);
-        }
-        h1 {
-            background-color: white;
-            }
-        
+@import url("styles/header.css");
+@import url("styles/banner.css");
+
+
+:root{
+    --cor-de-fundo: #e1dbdbed;
+    --azul:#26c9f1;
+    --laranja: #c48614;
+    --prata-degrade: linear-gradient(#c0c0c0,#8d8b8b,#3a3939);
+    --fonte-poppins: 'Poppins', sans-serif;
+}
+body{
+    background-color: var(--cor-de-fundo);
+
+}
