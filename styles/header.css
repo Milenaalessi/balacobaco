@@ -44,7 +44,7 @@ background-color: var(--branco);
 display: none;
 
  }
-@media screen and (min-width: 1024px);
+@media screen and (min-width: 1024px)
     .container__título{
 
     
