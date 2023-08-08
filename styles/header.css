@@ -40,4 +40,15 @@ background-color: var(--branco);
                         background-image: url(“../img/Menu.svg”);
                         display: inline-block;
                         }
-          
+ .container__texto{
+display: none;
+
+ }
+@media screen and (min-width: 1024px);
+    .container__título{
+
+    
+        display: block;
+    }
+
+
